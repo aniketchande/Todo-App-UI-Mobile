@@ -1,0 +1,154 @@
+
+
+.class1{
+    font-size: 30px;
+    margin-left: 33px;
+    margin-top: 112px;
+}
+.class2{
+    color: grey;
+    margin-left: 762px;
+    margin-top: -26px;
+    font-size: 20px;
+}
+
+.card-flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    height: 500px;
+    width: 100%;
+}
+.class3{
+    width: 154px;
+    height: 235px;
+    border-radius: 18px;
+    border: 2px solid red;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
+.class4{
+    text-decoration: line-through;
+    font-size: 17px;
+    font-weight: bold;
+}
+.class6{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.class7{
+    width: 154px;
+    height: 235px;
+    border-radius: 18px;
+    border: 2px solid red;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    margin-left: 660px;
+    margin-top: 40px;
+}
+.class8{
+    margin-top: 75px;
+    margin-left: 100px;
+}
+.class10{
+    text-decoration: line-through;
+    font-size: 17px;
+    font-weight: bold;
+}
+.blur{
+    filter: blur(5px);
+}
+.addlist-additem{
+    border: 2px solid red;
+  background: white;
+  color: red;
+  border-radius: 20px;
+  width: 350px;
+  height: 180px;
+   z-index: 1; 
+  text-align: center;
+  padding: 15px;
+  font-size: 20px;
+  position: absolute; 
+  top: 245px;
+  left: 547px;
+ 
+} 
+input{
+  border: 3px solid red;
+}
+.btn{
+  display: block;
+  width: 85px;
+  height: 25px;
+  background: red;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 27px;
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+  margin-top: 20px;
+  margin-left: 115px;
+}
+
+
+
+@media screen and (min-width:360px) and (max-width:800px) {
+    .card-flex{
+        display: flex;
+        flex-direction: column;
+        margin-top: -60px;
+
+    }
+    .class3{
+        border-radius: 23px;
+        width: 250px;
+        height: 30px;
+    }
+    .class1{
+        font-size: 32px;
+    margin: left;
+    margin-left: 30px;
+    }
+    .class2{
+        margin-left: 219px;
+    /* margin-top: 37px; */
+    margin-bottom: 49px;
+    }
+    .class4{
+        display: none;
+    }
+    .class5{
+        display: none;
+    }
+    .addlist-additem{
+        margin-left: -529px;
+        border-radius: 20px;
+        width: 282px;
+        height: 176px;
+    }
+    hr{
+       display: none; 
+    }
+    .class7{
+        margin-left: 70px;
+        
+    }
+     .Horizontal{
+        display: inherit;
+    } 
+   .btn{
+       margin-left: 87px;
+   }    
+
+}
