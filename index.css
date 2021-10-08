@@ -111,19 +111,29 @@ input{
 
     }
     .class3{
-        border-radius: 23px;
-        width: 250px;
-        height: 30px;
+        border-radius: 9px;
+    width: 250px;
+    height: 45px;
+    border: 1px solid;
     }
     .class1{
         font-size: 32px;
     margin: left;
     margin-left: 18px;
     }
+    .class12{
+        display: none;
+    }
+    .class13{
+        font-size: 40px;
+        font-weight: bold;
+    }
     .class2{
-        margin-left: 195px;
-    /* margin-top: 37px; */
-    margin-bottom: 49px;
+        margin-left: 216px;
+    margin-top: -33px;
+    margin-bottom: 44px;
+    font-size: 30px;
+    
     }
     .class4{
         display: none;
