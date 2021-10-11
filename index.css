@@ -115,6 +115,7 @@ input{
         display: flex;
         flex-direction: column;
         margin-top: -60px;
+        margin-left: -134px;
 
     }
     .class3{
@@ -124,8 +125,8 @@ input{
     border: 1px solid;
     margin: 20px; */
     border-radius: 9px;
-    width: 481px;
-    height: 92px;
+    width: 385px;
+    height: 60px;
     border: 1px solid;
     margin: 36px;
     padding: 23px;
@@ -134,7 +135,7 @@ input{
     }
     .class1{
         font-size: 65px;
-    margin-left: 245px;
+    margin-left: 55px;
     }
     .class12{
         display: none;
@@ -148,7 +149,7 @@ input{
     margin-top: -33px;
     margin-bottom: 44px;
     font-size: 30px; */
-    margin-left: 612px;
+    margin-left: 400px;
     margin-top: -72px;
     margin-bottom: 90px;
     font-size: 65px;
