@@ -2,25 +2,32 @@
 
 .class1{
     font-size: 30px;
-    margin-left: 105px;
+    margin-left: 410px;
     margin-top: 112px;
 }
 .class2{
     color: grey;
-    margin-left: 1260px;
+    margin-left: 940px;
     margin-top: -26px;
     font-size: 20px;
 }
 
 .card-flex{
-    display: flex;
+    /* display: flex;
     justify-content: space-evenly;
     margin-top: 5px;
     height: 500px;
-    width: 100%;
+    width: 100%; */
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin-left: 23%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
 }
 .class3{
-    width: 154px;
+    width: 160px;
     height: 235px;
     border-radius: 18px;
     border: 2px solid red;
@@ -111,28 +118,40 @@ input{
 
     }
     .class3{
-        border-radius: 9px;
-    width: 250px;
+        /* border-radius: 9px;
+    width: 315px;
     height: 45px;
     border: 1px solid;
+    margin: 20px; */
+    border-radius: 9px;
+    width: 481px;
+    height: 92px;
+    border: 1px solid;
+    margin: 36px;
+    padding: 23px;
+    font-size: 52px;
+    
     }
     .class1{
-        font-size: 32px;
-    margin: left;
-    margin-left: 18px;
+        font-size: 65px;
+    margin-left: 245px;
     }
     .class12{
         display: none;
     }
     .class13{
-        font-size: 40px;
+        font-size: 80px;
         font-weight: bold;
-    }
+    } 
     .class2{
-        margin-left: 216px;
+        /* margin-left: 216px;
     margin-top: -33px;
     margin-bottom: 44px;
-    font-size: 30px;
+    font-size: 30px; */
+    margin-left: 612px;
+    margin-top: -72px;
+    margin-bottom: 90px;
+    font-size: 65px;
     
     }
     .class4{
