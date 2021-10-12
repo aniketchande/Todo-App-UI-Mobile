@@ -118,6 +118,7 @@ input{
         margin-left: -134px;
 
     }
+    
     .class3{
         /* border-radius: 9px;
     width: 315px;
@@ -125,23 +126,22 @@ input{
     border: 1px solid;
     margin: 20px; */
     border-radius: 9px;
-    width: 385px;
-    height: 60px;
+    width: 285px;
+    height: 35px;
     border: 1px solid;
     margin: 36px;
     padding: 23px;
-    font-size: 52px;
-    
+    font-size: 35px;
     }
     .class1{
-        font-size: 65px;
-    margin-left: 55px;
+        font-size: 46px;
+    margin-left: 100px;
     }
     .class12{
         display: none;
     }
     .class13{
-        font-size: 80px;
+        font-size: 55px;
         font-weight: bold;
     } 
     .class2{
@@ -149,11 +149,10 @@ input{
     margin-top: -33px;
     margin-bottom: 44px;
     font-size: 30px; */
-    margin-left: 400px;
-    margin-top: -72px;
-    margin-bottom: 90px;
-    font-size: 65px;
-    
+    margin-left: 367px;
+    margin-top: -50px;
+    margin-bottom: 56px;
+    font-size: 40px;
     }
     .class4{
         display: none;
